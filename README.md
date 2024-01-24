@@ -35,7 +35,7 @@ Average Income of who bought and did not buy bikes:
 * Insert Charts - Clustered Columns
 * Add titles to axis x and axis y
 
-(insert image)
+<img width="234" alt="Screen Shot 2024-01-24 at 10 57 05 pm" src="https://github.com/minnguyen2311/bike-sales-project/assets/110536543/f5a69f0b-40d3-4f53-a193-acec14d4082b">
 
 Distance of who bought and did not buy bikes:
 * Drag Distance to Rows
