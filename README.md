@@ -28,37 +28,60 @@ Steps taken:
 
 ## Build Pivot Tables
 
-Average Income of who bought and did not buy bikes:
-* Drag Income to Values
-* Gender to Row
-* Purchased Bikes to Columns
+1. Average Income of who bought and did not buy bikes:
+* Drag Income to Values field
+* Drag Gender to Row field
+* Drag Purchased Bikes to Columns field
 * Insert Charts - Clustered Columns
 * Add titles to axis x and axis y
+* Add heading
   
 ![image](https://github.com/minnguyen2311/bike-sales-project/assets/110536543/6adde6de-c523-4fb2-bd0e-a5590b536ed9)
 
 <img width="392" alt="image" src="https://github.com/minnguyen2311/bike-sales-project/assets/110536543/0159b0bd-a124-4472-9bd7-6f1dc794bc5e">
 
-Distance of who bought and did not buy bikes:
-* Drag Distance to Rows
+2. Distance of who bought and did not buy bikes:
+* Drag Distance to Rows field
 * Drag Purchased Bikes to Values to count how many No/Yes
 * Drag Purchased Bikes to Columns to separate Yes/No
 * Insert Charts - Line Graph
+* Add titles to axis y
+* Add heading
 
-(insert image)
+![image](https://github.com/minnguyen2311/bike-sales-project/assets/110536543/98c9a2e8-338c-4c47-8d08-14583fe50a4d)
 
-Age Brackets of who bought and did not buy bikes:
-* Drag Age Brackets to Rows
+<img width="391" alt="image" src="https://github.com/minnguyen2311/bike-sales-project/assets/110536543/8ec3048a-b36d-402b-a0fb-c911b042cfe8">
+
+3. Age Brackets of who bought and did not buy bikes:
+* Drag Age Brackets to Rows field
 * Drag Purchased Bikes to Values to count how many No/Yes
 * Drag Purchased Bikes to Columns to separate Yes/No
 * Insert Charts - Line Graph
+* Add titles to axis y
+* Add heading
 
-(insert image)
+![image](https://github.com/minnguyen2311/bike-sales-project/assets/110536543/812b879c-723f-4661-893c-a04503626964)
 
-## Dashboard
+<img width="394" alt="image" src="https://github.com/minnguyen2311/bike-sales-project/assets/110536543/96fc8689-9680-47df-9459-eea8e64cbfa6">
+
+4. Ocupation groups of of who bought and did not buy bikes:
+* Drag Occupation to Rows field
+* Drag Ocupation to Values to count how many No/Yes per occupation groups
+* Drag Purchased Bikes to Columns to separate Yes/No
+* Insert Charts - Clustered Bar
+* Add heading
+
+![image](https://github.com/minnguyen2311/bike-sales-project/assets/110536543/42b521ed-a196-4a70-a5c5-4f386229ec17)
+
+<img width="797" alt="image" src="https://github.com/minnguyen2311/bike-sales-project/assets/110536543/b8f2baff-6684-4e61-a3c6-eed1e9ce112d">
+   
+## Bike Sales Dashboard
 * Added heading panel
 * Copied and pasted the pivot charts over
 * Rearranged pivot charts
 * Added slicers for filters and better analysis
+													
+![image](https://github.com/minnguyen2311/bike-sales-project/assets/110536543/01378cdd-6f3b-4e5b-afa4-737fd6b065dd)
 
-(insert image)
+## Findings
+
