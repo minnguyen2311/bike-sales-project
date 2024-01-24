@@ -34,8 +34,22 @@ Average Income of who bought and did not buy bikes:
 * Purchased Bikes to Columns
 * Insert Charts - Clustered Columns
 * Add titles to axis x and axis y
+  
+Gender | Purchased Bikes? | Blank
+Blank | Yes | No
+--- | --- | ---
+--- | --- | ---
+Female | $ 53,440 | $ 55,774
+Male | $ 56,208 | $ 60, 124
+
+Average of Income	Column Labels	
+Row Labels	No	Yes
+Female	 $53.440 	 $55.774 
+Male	 $56.208 	 $60.124 ![image](https://github.com/minnguyen2311/bike-sales-project/assets/110536543/532c2c72-4ef3-4763-a360-57744c283430)
 
 <img width="234" alt="Screen Shot 2024-01-24 at 10 57 05 pm" src="https://github.com/minnguyen2311/bike-sales-project/assets/110536543/f5a69f0b-40d3-4f53-a193-acec14d4082b">
+
+<img width="392" alt="image" src="https://github.com/minnguyen2311/bike-sales-project/assets/110536543/0159b0bd-a124-4472-9bd7-6f1dc794bc5e">
 
 Distance of who bought and did not buy bikes:
 * Drag Distance to Rows
