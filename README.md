@@ -84,4 +84,7 @@ Steps taken:
 ![image](https://github.com/minnguyen2311/bike-sales-project/assets/110536543/01378cdd-6f3b-4e5b-afa4-737fd6b065dd)
 
 ## Findings
-
+1. Professionals purchased bikes the most
+2. Male who purchased bike has higher income than female's
+3. Middle age puchased bike the most
+4. Customers with commute distance 0-1 miles purchased bike the most amongst other distances group.
