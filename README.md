@@ -36,8 +36,8 @@ Average Income of who bought and did not buy bikes:
 * Add titles to axis x and axis y
   
 Gender | Purchased Bikes? | Blank
-Blank | Yes | No
 --- | --- | ---
+Blank | Yes | No
 --- | --- | ---
 Female | $ 53,440 | $ 55,774
 Male | $ 56,208 | $ 60, 124
